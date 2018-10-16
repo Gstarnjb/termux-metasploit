@@ -4,6 +4,8 @@ ______________________________________
 # Auto install MetasploitFramework with no error
 
 ______________________________________
+## Prerequisites:
+1. Installation of git package in termux
 # How to Use It
 
 Read this instruction :
